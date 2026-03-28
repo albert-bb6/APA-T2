@@ -11,7 +11,7 @@ Este repositorio contiene la implementación de funciones en Python para el mane
 ## Ejecución de los tests unitarios
 Para verificar el correcto funcionamiento de las funciones, se han incluido **doctests** en el docstring del fichero. A continuación, se muestra la captura de pantalla de la ejecución en modo verboso (`python primos.py -v`):
 
-![Ejecución de tests unitarios](prueba2-APa.png)
+![Ejecución de tests unitarios](prueba2-APA.png)
 
 ---
 

@@ -1,5 +1,5 @@
 # APA-T2
-**Estudiante:** Albert Blázquez
+**Estudiante:** Albert Blázquez Badenas
 
 ---
 
@@ -12,6 +12,7 @@ Este repositorio contiene la implementación de funciones en Python para el mane
 Para verificar el correcto funcionamiento de las funciones, se han incluido **doctests** en el docstring del fichero. A continuación, se muestra la captura de pantalla de la ejecución en modo verboso (`python primos.py -v`):
 
 ![Ejecución de tests unitarios](prueba2-APA.png)
+![Ejecución de tests unitarios](prueba1-APA.png)
 
 ---
 
